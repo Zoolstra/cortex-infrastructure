@@ -1,11 +1,6 @@
 # Cortex Dev Team
 All info in subsequent sections of this README.md is from the original fork. CortexHQ dev team is using this repo as a starting point for our the rebuild of CortexHQ. This repo will be the single places **where all GCP resources are defined**. This is the infrastructure as code paradigm. 
 
-## Plan
-
-Define the IAM, Bigquery, Secret Manager Resouces
-
-
 # Managing infrastructure as code with Terraform, Cloud Build, and GitOps
 
 This is the repo for the [Managing infrastructure as code with Terraform, Cloud Build, and GitOps](https://cloud.google.com/solutions/managing-infrastructure-as-code) tutorial. This tutorial explains how to manage infrastructure as code with Terraform and Cloud Build using the popular GitOps methodology. 
